@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/send-video-website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/send-video-website/static/js/main.deabcacf.chunk.js",
+    "main.js.map": "/send-video-website/static/js/main.deabcacf.chunk.js.map",
+    "runtime-main.js": "/send-video-website/static/js/runtime-main.3cdbc6bf.js",
+    "runtime-main.js.map": "/send-video-website/static/js/runtime-main.3cdbc6bf.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/send-video-website/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.8ad22936.chunk.js": "/send-video-website/static/js/2.8ad22936.chunk.js",
+    "static/js/2.8ad22936.chunk.js.map": "/send-video-website/static/js/2.8ad22936.chunk.js.map",
+    "static/js/3.b50f43e5.chunk.js": "/send-video-website/static/js/3.b50f43e5.chunk.js",
+    "static/js/3.b50f43e5.chunk.js.map": "/send-video-website/static/js/3.b50f43e5.chunk.js.map",
+    "index.html": "/send-video-website/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/send-video-website/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/send-video-website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8ad22936.chunk.js.LICENSE.txt": "/send-video-website/static/js/2.8ad22936.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cdbc6bf.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.8ad22936.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.deabcacf.chunk.js"
+  ]
+}
