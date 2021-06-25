@@ -36,7 +36,7 @@ export default class App extends Component {
           
         }
         catch(err){
-          console.log(err)
+          alert(err);
         }
     }
 
@@ -60,7 +60,7 @@ export default class App extends Component {
         }) 
         }
         catch(err) {
-          console.log(err)
+          alert(err)
         }
         
         alert('Sent') //alerts a sent as of right now, can style it in the future
